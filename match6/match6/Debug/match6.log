@@ -1,0 +1,3 @@
+﻿  match.cpp
+c:\users\lenovopc\desktop\match6\match6\match.cpp(128): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  match6.vcxproj -> C:\Users\lenovoPC\Desktop\match6\Debug\match6.exe
